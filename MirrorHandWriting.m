@@ -1,5 +1,5 @@
 function MirrorHandWriting
-% Author: Eva Panin, Northeastern University
+
 % REQUIRES DEEP LEARNING TOOLBOX
 % The handwritten digits images from MATLAB Deep Lerning (DL) toolbox are
 % utilized.
